@@ -2,8 +2,7 @@ all the info on ggpo and fba
 
 FB Alpha - http://fba.emuunlim.com
 - http://www.barryharris.me.uk
-ggpo
-- http://ggpo.net/
+ggpo - http://ggpo.net/
 ----------------------------------------
 
 FB Alpha is an arcade emulator supporting the following hardware platforms;
