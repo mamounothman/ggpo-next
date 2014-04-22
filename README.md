@@ -1,8 +1,6 @@
 all the info on ggpo and fba 
 
-FB Alpha - http://fba.emuunlim.com
-- http://www.barryharris.me.uk
-
+FB Alpha - http://www.barryharris.me.uk
 ggpo - http://ggpo.net/
 
 ----------------------------------------
